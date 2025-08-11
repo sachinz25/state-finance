@@ -31,10 +31,10 @@ An interactive **Power BI dashboard** was created to visualize geographic distri
 - **Ministry of Finance, Government of India**
  ```
 UNSTARRED QUESTION NO. 999 in RAJYA SABHA
-TO BE ANSWERED ON TUESDAY 26th July, 2022  
+ANSWERED ON TUESDAY 26th July, 2022  
 “Allocation of funds in devolution schemes of Finance Commission and GST”
 
--ANSWER by
+-ANSWERED by
 THE MINISTER OF STATE IN THE MINISTRY OF FINANCE 
 (SHRI PANKAJ CHAUDHARY)
  ```
