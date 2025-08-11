@@ -26,7 +26,7 @@ An interactive **Power BI dashboard** was created to visualize geographic distri
 
 ---
 
-## 📑 Data Source
+## Data Source
 
 - **Ministry of Finance, Government of India**
  ```
@@ -41,6 +41,8 @@ THE MINISTER OF STATE IN THE MINISTRY OF FINANCE
 [Official pdf link](https://sansad.in/getFile/annex/257/AU999.pdf?source=pqars) 
 
 ---
+
+## Preview
 
 ![Dashboard Preview](screenshot/dashboard-preview.png)
 
